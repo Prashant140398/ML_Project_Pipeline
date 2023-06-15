@@ -1,0 +1,6 @@
+[ 2023-06-15 13:35:21,102 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-15 13:35:21,149 ] 187 werkzeug - INFO -  * Debugger PIN: 113-510-946
+[ 2023-06-15 13:35:33,105 ] 8 root - INFO - We are testing our second method of logging.
+[ 2023-06-15 13:35:33,113 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 13:35:33] "GET / HTTP/1.1" 200 -
+[ 2023-06-15 13:35:34,009 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 13:35:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-15 13:51:00,701 ] 187 werkzeug - INFO -  * Detected change in 'F:\\Supernatural\\D\\B\\ML\\ML Project Bootcamp\\ML_Project_Pipeline\\src\\exception.py', reloading
