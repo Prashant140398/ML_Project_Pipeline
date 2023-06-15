@@ -1,2 +1,5 @@
 [ 2023-06-15 13:58:05,454 ] 187 werkzeug - WARNING -  * Debugger is active!
 [ 2023-06-15 13:58:05,462 ] 187 werkzeug - INFO -  * Debugger PIN: 103-642-033
+[ 2023-06-15 13:58:10,702 ] 15 root - INFO - Error occured in python script name [F:\Supernatural\D\B\ML\ML Project Bootcamp\ML_Project_Pipeline\app.py] line number [12] error message [We are testing our custom file]
+[ 2023-06-15 13:58:10,702 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 13:58:10] "GET / HTTP/1.1" 200 -
+[ 2023-06-15 16:44:30,130 ] 187 werkzeug - INFO -  * Detected change in 'f:\\supernatural\\d\\b\\ml\\ml project bootcamp\\ml_project_pipeline\\src\\components\\data_ingestion.py', reloading

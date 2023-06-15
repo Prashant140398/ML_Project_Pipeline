@@ -1,0 +1,3 @@
+[ 2023-06-15 16:53:48,227 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-15 16:53:48,243 ] 187 werkzeug - INFO -  * Debugger PIN: 103-642-033
+[ 2023-06-15 16:53:52,673 ] 187 werkzeug - INFO -  * Detected change in 'f:\\supernatural\\d\\b\\ml\\ml project bootcamp\\ml_project_pipeline\\src\\components\\data_ingestion.py', reloading
