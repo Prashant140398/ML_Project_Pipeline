@@ -1,0 +1,37 @@
+[ 2023-06-22 11:43:26,545 ] 24 root - INFO - Data Ingestion Started
+[ 2023-06-22 11:43:26,545 ] 26 root - INFO - Data reading using pandas library from local system
+[ 2023-06-22 11:43:26,576 ] 29 root - INFO - Data reading completed
+[ 2023-06-22 11:43:26,687 ] 33 root - INFO - Data Splitted into train and test
+[ 2023-06-22 11:43:26,793 ] 39 root - INFO - Data Ingestion completed
+[ 2023-06-22 11:43:26,794 ] 24 root - INFO - Data Ingestion Started
+[ 2023-06-22 11:43:26,794 ] 26 root - INFO - Data reading using pandas library from local system
+[ 2023-06-22 11:43:26,815 ] 29 root - INFO - Data reading completed
+[ 2023-06-22 11:43:26,908 ] 33 root - INFO - Data Splitted into train and test
+[ 2023-06-22 11:43:27,023 ] 39 root - INFO - Data Ingestion completed
+[ 2023-06-22 11:43:27,077 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,077 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,077 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,077 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,077 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,077 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,093 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,093 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,093 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,093 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,093 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,093 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 11:43:27,108 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,108 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,108 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,108 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,108 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,108 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,124 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,124 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,124 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,124 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,124 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,124 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 11:43:27,124 ] 34 root - INFO - Data Transformation started
+[ 2023-06-22 11:43:27,124 ] 96 root - INFO - Splitting train data into dependent and independent features
+[ 2023-06-22 11:43:27,124 ] 100 root - INFO - Splitting test data into dependent and independent features
