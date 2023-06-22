@@ -1,0 +1,38 @@
+[ 2023-06-22 12:34:23,944 ] 24 root - INFO - Data Ingestion Started
+[ 2023-06-22 12:34:23,945 ] 26 root - INFO - Data reading using pandas library from local system
+[ 2023-06-22 12:34:24,199 ] 29 root - INFO - Data reading completed
+[ 2023-06-22 12:34:24,426 ] 33 root - INFO - Data Splitted into train and test
+[ 2023-06-22 12:34:24,740 ] 39 root - INFO - Data Ingestion completed
+[ 2023-06-22 12:34:24,892 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,895 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,899 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,902 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,906 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,909 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,912 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,916 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,919 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,921 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,924 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,928 ] 85 root - INFO - Outliers capped on our train data
+[ 2023-06-22 12:34:24,932 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,934 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,937 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,940 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,942 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,947 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,949 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,952 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,954 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,958 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,961 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,965 ] 89 root - INFO - Outliers capped on our test data
+[ 2023-06-22 12:34:24,965 ] 34 root - INFO - Data Transformation started
+[ 2023-06-22 12:34:24,965 ] 96 root - INFO - Splitting train data into dependent and independent features
+[ 2023-06-22 12:34:24,971 ] 100 root - INFO - Splitting test data into dependent and independent features
+[ 2023-06-22 12:34:25,045 ] 30 root - INFO - Splitting the data into dependent and independent feature
+[ 2023-06-22 12:34:25,045 ] 38 root - INFO - Machine Learning model object initialization
+[ 2023-06-22 12:34:25,045 ] 45 root - INFO - Parameters initialization for hyperparameter tuning
+[ 2023-06-22 12:34:25,045 ] 70 root - INFO - Model evaluation started
+[ 2023-06-22 12:34:25,045 ] 32 root - INFO - Model training started
+[ 2023-06-22 12:34:57,234 ] 85 root - INFO - Best model found, Model name is Random Forest, accuracy score: 0.720958819913952
